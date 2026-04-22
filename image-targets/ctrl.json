@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/ctrl_luminance.png",
+  "metadata": null,
+  "name": "ctrl",
+  "type": "PLANAR",
+  "properties": {
+    "left": 10,
+    "top": 0,
+    "width": 5456,
+    "height": 7275,
+    "isRotated": false,
+    "originalWidth": 5475,
+    "originalHeight": 7275
+  },
+  "resources": {
+    "originalImage": "ctrl_original.png",
+    "croppedImage": "ctrl_cropped.png",
+    "thumbnailImage": "ctrl_thumbnail.png",
+    "luminanceImage": "ctrl_luminance.png"
+  },
+  "created": 1775773023448,
+  "updated": 1775773023448
+}
