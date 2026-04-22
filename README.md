@@ -1,3 +1,9 @@
+## Studio: Image Target
+
+## Image Target
+
+![](./image-targets/ctrl_original.png)
+
 ### Your Exported Project
 This zip contains your project source code, assets, image targets, and configuration needed to build and publish your 8th Wall project. It does not connect to any 8th Wall services, so will work even after the 8th Wall servers are shut down.
 
